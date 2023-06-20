@@ -1,7 +1,8 @@
 # museum
 
 Ludovic Walter
-Pour le cours de Flutter, premier TP MONALISA
+Pour le cours de Flutter, le TP E-market
+Je vais chercher des items sur une API en ligne pour les afficher sur mon application mobile en language Flutter.
 
 ## Getting Started
 
